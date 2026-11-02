@@ -16,7 +16,7 @@ This system allows **collaborative AI agents** to work together to solve complex
 
 ## Architecture
 
-![System Architecture](assets/System%20Architecture.png)
+![System Architecture](System-,Architecture.png)
 
 See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed diagrams and component breakdown.
 
