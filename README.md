@@ -16,7 +16,7 @@ This system allows **collaborative AI agents** to work together to solve complex
 
 ## Architecture
 
-![System Architecture]([System-,Architecture.png](https://github.com/Anjana-Puvvada/Agentflow_ai-orchestration-platform/edit/main/README.md#:~:text=System-,Architecture.png))
+![System Architecture]()
 
 See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed diagrams and component breakdown.
 
